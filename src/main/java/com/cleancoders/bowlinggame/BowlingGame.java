@@ -1,4 +1,4 @@
-package com.cleancoders.BowlingGame;
+package com.cleancoders.bowlinggame;
 
 public class BowlingGame {
 
@@ -45,7 +45,7 @@ public class BowlingGame {
 
     private boolean isSpare(int frameIndex) {
         return rolls[frameIndex] + rolls[frameIndex + 1] == 10;
-    }
+    }   
 
 
 }

@@ -1,4 +1,4 @@
-package com.cleancoders.BowlingGame;
+package com.cleancoders.bowlinggame;
 
 import org.junit.jupiter.api.Test;
 
